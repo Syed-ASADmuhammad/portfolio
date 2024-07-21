@@ -22,13 +22,7 @@ Version      : 1.0
 */
 
 body{
--ms-background-size:cover;
-background-size:cover;
-font-weight:400;
--moz-osx-font-smoothing:grayscale;
--webkit-font-smoothing:antialiased;
-color: #fafafa;
-font-family: 'Poppins', sans-serif;
+
 }
 
 html{overflow-y:scroll; height: 100% }
