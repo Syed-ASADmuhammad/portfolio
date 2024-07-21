@@ -22,7 +22,6 @@ Version      : 1.0
 */
 
 body{
-background:url(../images/img_bg.jpg) no-repeat center center fixed;
 -ms-background-size:cover;
 background-size:cover;
 font-weight:400;
